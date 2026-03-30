@@ -17,3 +17,4 @@ if st.button("Generate Embeddigns"):
         st.write(embedding)
     else:
         st.warning("Please enter the text")
+        
